@@ -1,5 +1,5 @@
 # vim-elhirl
-Library written in riml for use in Vim plugins
+Library written in [riml](https://github.com/luke-gru/riml) for use in Vim plugins
 
 elhirl stands for extreme language hacking in riml. Extreme language hacking is my programming style, but this is actually just a VimL library soon to be used by my Vim plugins.
 
