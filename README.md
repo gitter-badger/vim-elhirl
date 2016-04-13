@@ -1,4 +1,6 @@
 # vim-elhirl
+
+[![Join the chat at https://gitter.im/still-dreaming-1/vim-elhirl](https://badges.gitter.im/still-dreaming-1/vim-elhirl.svg)](https://gitter.im/still-dreaming-1/vim-elhirl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Library written in [riml](https://github.com/luke-gru/riml) for use in Vim plugins
 
 elhirl stands for extreme language hacking in riml. Extreme language hacking is my programming style, but this is actually just a VimL library soon to be used by my [vim-project-tags](https://github.com/still-dreaming-1/vim-project-tags) plugin.
